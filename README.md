@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratyakshkumar Parmar</h1>
+<h1 align="center">Hi 👋, I'm Pratyaksh </h1>
 <h3 align="center">Data analyst with Genuine Passion for Data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipratyaksh21&label=Profile%20views&color=0e75b6&style=flat" alt="ipratyaksh21" /> </p>
